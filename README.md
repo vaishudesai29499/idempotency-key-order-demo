@@ -95,4 +95,3 @@ SQLite is used only to keep this demo easy to run. A production implementation m
 
 > Idempotency does not prevent a request from being sent twice. It makes repeated execution of the same logical operation safe.
 
-**Study/demo project only.**
