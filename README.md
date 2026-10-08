@@ -1,4 +1,4 @@
-# Idempotency Key Demo — Prevent Duplicate Orders
+# Idempotency Key Demo —> Prevent Duplicate Orders
 
 A small real-world FastAPI example showing how an **Idempotency-Key** prevents duplicate orders when the same request is retried.
 
